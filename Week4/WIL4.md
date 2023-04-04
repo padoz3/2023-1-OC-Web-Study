@@ -11,9 +11,9 @@ merge: merge의 결과 = 새로운 커밋. 마스터는 새로운 커밋을 가�
 HTML : Hypertext Markup Language<br/>
 head = 문서의 머리통<br/>
 body = 문서의 몸통<br/>
-p p = paragrah. 문단의 줄임말<br/>
-    열면 닫아야 함 </p><br/>
-    가끔 하나짜리도 있다 '/<br/>/' : 줄바꿈 </p><br/>
+p: p = paragrah. 문단의 줄임말<br/>
+    열면 닫아야 함 
+    but 가끔 하나짜리도 있다 '/<br : 줄바꿈 </p><br/>
     <input place holder = "또 이렇게" ><br/>
 
 hang, charset, style : attribute, 속성<br/>
